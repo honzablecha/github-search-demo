@@ -1,0 +1,15 @@
+overwrite: true
+schema:
+    - 'https://api.github.com/graphql':
+          headers:
+              Authorization: '5d34e1d2bd5f9275c932b323a5e3b919773843d5'
+documents: 'src/**/*.{ts,tsx}'
+generates:
+    src/generated/graphql.tsx:
+        plugins:
+            - 'typescript'
+            - 'typescript-operations'
+            - 'typescript-urql'
+    ./graphql.schema.json:
+      plugins:
+        - 'introspection'

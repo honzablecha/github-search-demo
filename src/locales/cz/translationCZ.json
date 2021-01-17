@@ -1,0 +1,12 @@
+{
+    "searchPlaceholder": "Vyhledej uživatele",
+    "name": "Jméno",
+    "userName": "Uživatel",
+    "bio": "Bio",
+    "profile": "Profil",
+    "repository": "Úložiště",
+    "followers": "Followeři",
+    "technology": "Technologie",
+    "description": "Popis",
+    "error": "Uživatel nebyl nalezen"
+}

@@ -1,0 +1,12 @@
+{
+    "searchPlaceholder": "Search Github user",
+    "name": "Name",
+    "userName": "User Name",
+    "bio": "Bio",
+    "profile": "Profile",
+    "repository": "Repository",
+    "followers": "Followers",
+    "technology": "Technology",
+    "description": "Description",
+    "error": "User did not found"
+}
