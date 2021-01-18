@@ -1,3 +1,5 @@
+••••••••••••PLEASE INSERT YOUR OWN GITHUB API TOKEN••••••••••••••••
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
