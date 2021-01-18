@@ -1,4 +1,4 @@
-••••••••••••PLEASE INSERT YOUR OWN GITHUB API TOKEN••••••••••••••••
+# ••••••••••••PLEASE INSERT YOUR OWN GITHUB API TOKEN IN src/index ••••••••••••••••
 
 # Getting Started with Create React App
 
